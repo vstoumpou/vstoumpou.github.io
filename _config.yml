@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vasiliki Stoumpou"
-  avatar           : "images/Vas_headshot.jpeg"
+  avatar           : "/images/Vas_headshot.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Cambridge, MA"
   employer         :
